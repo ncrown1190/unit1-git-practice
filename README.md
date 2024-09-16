@@ -37,7 +37,8 @@ git push -u origin main
 
 ## After Updating a file/folder ##
 
-### check for any pulls ###
+### check for any pulls ### 
+(first pull then push)
 
 git pull
 
