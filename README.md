@@ -19,3 +19,32 @@ mv <name> <new location> - move
 cp <name> <new name> - copy a file
 
 rm <name> - remove (delete) a file
+
+## Git Commands ##
+git init
+
+git status
+
+git add .
+
+git commit -m "first commit"
+
+ git remote add origin https://github.com/ncrown1190/unit1-git-practice.git
+ 
+git branch -M main
+
+git push -u origin main
+
+## After Updating a file/folder ##
+
+### check for any pulls ###
+
+git pull
+
+### to push ###
+
+git add .
+
+git commit -m "updated"
+
+git push
